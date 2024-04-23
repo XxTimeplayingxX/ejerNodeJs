@@ -1,2 +1,0 @@
-Nombre: David
-Apellido: Sánchez

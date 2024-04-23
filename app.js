@@ -1,5 +1,6 @@
 // Una libería para poder acceder a los archivos del sistema
 //Hacemos una instancia de una ibrería
+/*Ejercicio usando file system*/ 
 const fs = require('fs');
 
 const userName = 'David';
